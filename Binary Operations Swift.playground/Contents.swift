@@ -16,6 +16,8 @@ extension UInt8 {
 var a: UInt8 = 57
 a.binary()
 
+(5 as UInt8).binary()
+
 a = 0b00111001
 
 a = a + 2
